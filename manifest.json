@@ -1,0 +1,15 @@
+{
+  "name": "Electrodynamics — Summary Notes",
+  "short_name": "Electrodynamics — Summary Notes",
+  "start_url": "/electrodynamics-notes/",
+  "scope": "/electrodynamics-notes/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/electrodynamics-notes/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
